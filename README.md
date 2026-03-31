@@ -95,19 +95,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjeevSharma012&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SanjeevSharma012&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevSharma012&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
