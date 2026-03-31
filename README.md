@@ -117,14 +117,6 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/SanjeevSharma012/SanjeevSharma012/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
